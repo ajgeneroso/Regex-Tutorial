@@ -3,7 +3,8 @@
 ## Description
 This repository is merely a placeholder. The tutorial was published as a GitHub Gist.
 
-
+## Link
+[Github Gist](https://gist.github.com/ajgeneroso/4629c0fb5ad2c3775ad2fda9f310aa48)
 
 ## User Story
 AS A web development student
